@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## SS TAMPILAN
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Web capture_18-9-2023_21014_localhost](https://github.com/Fathianr16/Tugas1_124210026/assets/145315810/c657abfc-ddf3-4584-99d2-ae22bbc9f402)
+![Web capture_18-9-2023_205949_localhost](https://github.com/Fathianr16/Tugas1_124210026/assets/145315810/d53e269b-224c-4b2a-b507-6c4447743b7f)
